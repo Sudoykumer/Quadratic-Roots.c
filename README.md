@@ -2,7 +2,8 @@
 ```markdown
 # 🧮 Quadratic Equation Solver (C Program)
 
-This is a simple and beginner-friendly C program to **find the roots of a quadratic equation** of the form:
+This is a simple and beginner-friendly C program to
+**find the roots of a quadratic equation** of the form:
 
 ```
 
